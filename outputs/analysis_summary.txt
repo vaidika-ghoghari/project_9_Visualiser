@@ -1,0 +1,30 @@
+SALES DATA ANALYSIS SUMMARY
+========================================
+Source: D:\daily_lab work\Python\project_9_Visualiser\Chocolate_sales.csv
+Rows: 1094 | Columns: 6
+
+Column names:
+Sales Person, Country, Product, Date, Amount, Boxes Shipped
+
+Missing values:
+Sales Person       0
+Country            0
+Product            0
+Date             664
+Amount             0
+Boxes Shipped      0
+
+Descriptive statistics:
+             Amount  Boxes Shipped
+count   1094.000000    1094.000000
+mean    5652.308044     161.797989
+std     4102.442014     121.544145
+min        7.000000       1.000000
+25%     2390.500000      70.000000
+50%     4868.500000     135.000000
+75%     8027.250000     228.750000
+max    22050.000000     709.000000
+
+Total numeric sums:
+Amount           6183625
+Boxes Shipped     177007
